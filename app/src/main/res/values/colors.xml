@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DCDCDA</color>
+    <color name="colorPrimaryDark">#AFAFBB</color>
+    <color name="colorAccent">#E7E7E5</color>
+
+    <!-- color scheme dark -->
+    <color name="greyDark">#AFAFBB</color>
+    <color name="grey">#DCDCDA</color>
+    <color name="greyAccent">#E7E7E5</color>
+    <color name="black">#3E3E3E</color>
+    <color name="white">#FAFAFA</color>
+
+    <!-- color scheme high contrast -->
+    <color name="maroon">#CEBCB2</color>
+    <color name="red">#EE596C</color>
+    <color name="grey2">#D1CFD0</color>
+    <color name="black2">#433D3F</color>
+    <color name="maroonAccent">#E5DCDD</color>
+
+    <!-- color scheme high contrast -->
+</resources>

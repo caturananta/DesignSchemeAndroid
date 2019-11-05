@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FragmentViewModel</string>
+    <string name="search">Pencarian</string>
+    <string name="home">Beranda</string>
+    <string name="profile">Profil</string>
+    <string name="favorite">Favorit</string>
+    <string name="content_now_playing">Sedang Tayang</string>
+    <string name="content_movie">Film</string>
+    <string name="content_tv_shows">Acara TV</string>
+    <string name="content_detail">Detail</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
